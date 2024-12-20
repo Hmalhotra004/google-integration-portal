@@ -21,3 +21,4 @@ backend/temp_data
 # Ignore VSCode specific files
 .vscode/
 *.code-workspace
+creds.json
